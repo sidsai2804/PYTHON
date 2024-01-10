@@ -6,9 +6,9 @@ def generate_otp():
 
 otp = generate_otp()
 
-email = "unknowngamer28o4@gmail.com"
-password = "leagntwoebwjwcnz"
-recever_mail = "sidsai28@gmail.com"
+email = "senders mail id"
+password = "password of sender mail id"
+recever_mail = "recievers mail id"
 
 message = f'''FROM: {email}
 TO: {recever_mail}
